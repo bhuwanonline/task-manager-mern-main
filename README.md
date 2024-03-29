@@ -6,7 +6,7 @@ This application help to manage the tasks with delete & complete functionality u
 **1) Backend Application (sever) :**
     Move to the server folder & execute the npm start command to start the server application.
 
-    ![image](https://github.com/bhuwanonline/task-manager-mern-main/assets/20974800/d5140c56-640d-4ca6-817b-eef46b02a23c)   
+    ![image](https://github.com/bhuwanonline/task-manager-mern-main/assets/20974800/e33fdde9-28ac-49d7-9f0f-5356e7ce9a27)
 
     ![image](https://github.com/bhuwanonline/task-manager-mern-main/assets/20974800/f9b73eb5-9b14-48bf-8bd2-05cd37c058a7)
 
