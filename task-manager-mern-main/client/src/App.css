@@ -1,0 +1,29 @@
+.task-manager-app__form {
+  margin-bottom: 20px;
+}
+
+.task-manager-app__tasks {
+  display: flex;
+  border: 1px solid black;
+  width: 100%;
+  flex-direction: column;
+}
+
+.task-manager-app__task-item {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.task-item {
+  width: 33%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+
+.task-item-strike {
+  text-decoration: line-through;
+  font-style: italic;
+  color: gray;
+}
