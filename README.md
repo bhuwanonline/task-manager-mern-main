@@ -6,8 +6,7 @@ This application help to manage the tasks with delete & complete functionality u
 **1) Backend Application (sever) :**
     Move to the server folder & execute the npm start command to start the server application.
 
-    ![image](https://github.com/bhuwanonline/task-manager-mern-main/assets/20974800/ac211b68-ada2-4ced-ac71-9ede97cacef6)
-
+    ![image](https://github.com/bhuwanonline/task-manager-mern-main/assets/20974800/d5140c56-640d-4ca6-817b-eef46b02a23c)
 
     Also, created unit test case for REST API using JEST. To execute the test cases run the command npm jest.
 
